@@ -1,0 +1,32 @@
+{
+  "todos": [
+    {
+      "title": "nowy",
+      "deadline": "2023-12-23",
+      "completed": false,
+      "archived": false,
+      "id": 5
+    },
+    {
+      "title": "a",
+      "deadline": "2023-12-15",
+      "completed": false,
+      "archived": false,
+      "id": 6
+    },
+    {
+      "title": "adsdas",
+      "deadline": "2023-12-10",
+      "completed": false,
+      "archived": false,
+      "id": 7
+    },
+    {
+      "title": "wre",
+      "deadline": "2023-12-22",
+      "completed": true,
+      "archived": true,
+      "id": 8
+    }
+  ]
+}
