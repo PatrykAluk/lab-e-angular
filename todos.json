@@ -10,8 +10,8 @@
     {
       "title": "a",
       "deadline": "2023-12-15",
-      "completed": false,
-      "archived": false,
+      "completed": true,
+      "archived": true,
       "id": 6
     },
     {
@@ -27,6 +27,19 @@
       "completed": true,
       "archived": true,
       "id": 8
+    },
+    {
+      "title": "ads",
+      "completed": true,
+      "archived": true,
+      "id": 9
+    },
+    {
+      "title": "asdsdadsadsadasd",
+      "deadline": "2023-12-22",
+      "completed": true,
+      "archived": false,
+      "id": 10
     }
   ]
 }
